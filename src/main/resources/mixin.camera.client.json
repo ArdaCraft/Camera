@@ -1,0 +1,17 @@
+{
+  "required": false,
+  "minVersion": "0.5.11",
+  "compatibilityLevel": "JAVA_8",
+  "package": "me.dags.camera.client.mixin",
+  "refmap": "mixin.camera.refmap.json",
+  "mixins": [],
+  "client": [
+    "MixinBiomeProvider",
+    "MixinEntityRenderer",
+    "MixinEntityPlayerSP",
+    "MixinEntityPlayer",
+    "MixinViewFrustum",
+    "MixinFrustum",
+    "MixinMinecraft"
+  ]
+}
