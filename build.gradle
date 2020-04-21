@@ -16,7 +16,7 @@ buildscript {
     }
     dependencies {
         classpath 'net.minecraftforge.gradle:ForgeGradle:2.3-SNAPSHOT'
-        classpath 'org.spongepowered:mixingradle:0.4-SNAPSHOT'
+        classpath 'org.spongepowered:mixingradle:0.6-SNAPSHOT'
         classpath 'gradle.plugin.mnm.mods.kappa:ap-ide:1.0.5'
     }
 }
@@ -27,8 +27,8 @@ apply plugin: 'mnm.gradle.ap-ide'
 sourceCompatibility = targetCompatibility = "1.8"
 
 minecraft {
-    version = "1.12.1"
-    mappings = "snapshot_20170624"
+    version = "1.12.2"
+    mappings = "snapshot_20171003"
     runDir = 'run'
     tweakClass = 'me.dags.camera.launch.CameraTweaker'
 }
