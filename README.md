@@ -1,0 +1,2 @@
+# FancyCam
+A camera mod
