@@ -44,10 +44,10 @@ repositories {
 }
 
 dependencies {
-    compile('org.spongepowered:mixin:0.6.11-SNAPSHOT') {
+    compile('org.spongepowered:mixin:0.7.4-SNAPSHOT') {
         transitive = false
     }
-    factory 'org.spongepowered:mixin:0.6.11-SNAPSHOT'
+    factory 'org.spongepowered:mixin:0.7.4-SNAPSHOT'
 }
 
 processor {
