@@ -1,4 +1,4 @@
-# Camera [![Build Status](https://travis-ci.com/ArdaCraft/FancyCam.svg?branch=master)](https://travis-ci.com/github/ArdaCraft/FancyCam)
+# Camera [![Build Status](https://travis-ci.com/ArdaCraft/Camera.svg?branch=master)](https://travis-ci.com/github/ArdaCraft/Camera)
 A camera mod
 
 Author - [dags-](https://github.com/dags-)
